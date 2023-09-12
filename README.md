@@ -25,5 +25,6 @@ Merge two branch:
 2: git merge branch-name (to merge two branches i.e., mentioned branch-name and current branch)
 one more way is there that is : create a PR (pull request- it lets you tell others about changes you have pushed to a branch in a repository on github)
 
+
 Pull command:
 git pull origin main - used to fetch and download content from a remote repo and immediately update the local repo to match that content.
