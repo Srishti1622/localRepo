@@ -18,9 +18,12 @@ Commands for branch:
 2: git branch -M new-name (to rename branch)
 3: git checkout branch-name (to navigate to mentioned branch name)
 4: git checkout -b new-branch-name (to create new branch with mentioned new-branch-name)
-5: git branch -d branch-name (to delete mentioned name branch)
+5: git branch -d branch-name (to delete mentioned name branch) here we can't delete the branch in which we are currently so if we want to do so then first we have to go to some other branch
 
 Merge two branch:
 1: git diff branch-name (to compare commits, branches, files and more, here it will compare mentioned branch-name with current branch in which we are)
 2: git merge branch-name (to merge two branches i.e., mentioned branch-name and current branch)
 one more way is there that is : create a PR (pull request- it lets you tell others about changes you have pushed to a branch in a repository on github)
+
+Pull command:
+git pull origin main - used to fetch and download content from a remote repo and immediately update the local repo to match that content.
