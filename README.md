@@ -19,3 +19,8 @@ Commands for branch:
 3: git checkout branch-name (to navigate to mentioned branch name)
 4: git checkout -b new-branch-name (to create new branch with mentioned new-branch-name)
 5: git branch -d branch-name (to delete mentioned name branch)
+
+Merge two branch:
+1: git diff branch-name (to compare commits, branches, files and more, here it will compare mentioned branch-name with current branch in which we are)
+2: git merge branch-name (to merge two branches i.e., mentioned branch-name and current branch)
+one more way is there that is : create a PR 
