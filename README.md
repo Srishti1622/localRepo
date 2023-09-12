@@ -11,3 +11,11 @@ Step 9: to verify remote use command "git remote -v"<br>
 Step 10: to check branch use command "git branch"<br>
 Step 11: to rename the branch name use command "git branch -M new-name<br>
 Step 12: to push the changes to github use command "git push origin main" here if we know like we are going to push the changes again and again to same branch the we can use the command "git push -u origin main" here -u is basically we are providing a flag to set upstream then after this we can only use "git push" command to puch the changes.<br>
+
+
+Commands for branch:
+1: git branch (to check branch)
+2: git branch -M new-name (to rename branch)
+3: git checkout branch-name (to navigate to mentioned branch name)
+4: git checkout -b new-branch-name (to create new branch with mentioned new-branch-name)
+5: git branch -d branch-name (to delete mentioned name branch)
