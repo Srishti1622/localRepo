@@ -1,4 +1,4 @@
-Learned how to push existing project folder into github.
+Learned how to push existing project folder into github.<br>
 Step 1: new that project folder in vs code using mkdir <folder-name>
 Step 2: go inside to that folder using cd <folder-name>
 Step 3: use command "ls -Hidden" to check .git if it's present means that is present in github also else not
