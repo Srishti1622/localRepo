@@ -32,3 +32,11 @@ git pull origin main - used to fetch and download content from a remote repo and
 
 Resolving Merge comflicts:
 An event that takes place when Git is unable to automatically resolve differences in code between two commits.
+
+Undoing Changes:
+Case 1: staged changes 
+(git reset file-name) or git reset
+Case 2: commited changes (for one commit only)
+(git reset HEAD~1)
+Case 3: commited changes (for many commits)
+(git reset commit-hash) or git reset --hard commit-hash
