@@ -24,3 +24,4 @@ Merge two branch:
 1: git diff branch-name (to compare commits, branches, files and more, here it will compare mentioned branch-name with current branch in which we are)
 2: git merge branch-name (to merge two branches i.e., mentioned branch-name and current branch)
 one more way is there that is : create a PR (pull request- it lets you tell others about changes you have pushed to a branch in a repository on github)
+
