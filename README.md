@@ -28,3 +28,7 @@ one more way is there that is : create a PR (pull request- it lets you tell othe
 
 Pull command:
 git pull origin main - used to fetch and download content from a remote repo and immediately update the local repo to match that content.
+
+
+Resolving Merge comflicts:
+An event that takes place when Git is unable to automatically resolve differences in code between two commits.
