@@ -40,3 +40,7 @@ Case 2: commited changes (for one commit only)
 (git reset HEAD~1)
 Case 3: commited changes (for many commits)
 (git reset commit-hash) or git reset --hard commit-hash
+
+Use "git log" to see all commits 
+
+Fork: A fork is a new repository that shares code and visibility settings with the original "upstream" repository. Fork is a rough copy.(basically to copy someone's else code or repo to our github repo) after that if we do some changes then it will be in our account only. And if we want to merge our changes to that someone's else code then we will raise a new pull request.
