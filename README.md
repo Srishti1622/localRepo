@@ -6,7 +6,7 @@ Step 4: now initiate the process of add that folder to github using "git init"
 Step 5: check the status of folder using "git status"
 Step 6: to add the folder use command "git add <file-name>" or "git add ." to add all files in the folder in one go.
 Step 7: commit the changes using "git commit -m 'write message'"
-Step 8: to add the folder to git use command "git remote add origin <link>"
+Step 8: to add the folder to git first make one repo in github and then use that repo link in the command "git remote add origin <link>"
 Step 9: to verify remote use command "git remote -v"
 Step 10: to check branch use command "git branch"
 Step 11: to rename the branch name use command "git branch -M <new-name>
