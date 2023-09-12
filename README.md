@@ -18,4 +18,4 @@ Commands for branch:
 2: git branch -M new-name (to rename branch)
 3: git checkout branch-name (to navigate to mentioned branch name)
 4: git checkout -b new-branch-name (to create new branch with mentioned new-branch-name)
-5: git branch -d branch-name (to delete mentioned name branch)
+5: git branch -d branch-name (to delete mentioned name branch) here we can't delete the branch in which we are currently so if we want to do so then first we have to go to some other branch
