@@ -1,5 +1,5 @@
 Learned how to push existing project folder into github.<br>
-Step 1: new that project folder in vs code using mkdir folder-name or if the repo is already there in github then we need to clone it using command "git clone link-of-repo"<br>
+Step 1: open that project folder in vs code using mkdir folder-name or if the repo is already there in github then we need to clone it using command "git clone link-of-repo"<br>
 Step 2: go inside to that folder using cd folder-name<br>
 Step 3: use command "ls -Hidden" to check .git if it's present means that is present in github also else not<br>
 Step 4: now initiate the process of add that folder to github using "git init"<br>
